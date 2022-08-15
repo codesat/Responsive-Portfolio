@@ -3,6 +3,7 @@ Using Html, Css, Jquery, Javascript, Google Fonts, Plugins made awesome professi
 <br>
 
 See my Portfolio & download CV on Netlify: https://satishsahu.netlify.app/
+<br>
 SEE LIVE WITH ANIMATION AND RESPONSIVENESS OF WEBSITE
 
 
